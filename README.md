@@ -5,4 +5,4 @@ This Rosbag can convert the video to ros topic ,as camera can.There are two args
 # Dependce
 OpenCV3
 # usage
-roslaunch video2camera videw2camera.launch
+roslaunch video2camera video2camera.launch
