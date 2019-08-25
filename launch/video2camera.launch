@@ -1,0 +1,5 @@
+<launch>
+    <node name="video2camera" pkg="video2camera" type="video2camera_node" output="screen"/>
+    <param name="file_name"  type="string" value="/home/cj/Desktop/VID_20190824_161710.mp4"/>
+    <param name="show" type="int" value="0"/>
+</launch>
